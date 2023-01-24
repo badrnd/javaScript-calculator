@@ -1,0 +1,63 @@
+h1{
+   
+text-align: center;
+}
+.container{
+    background-color: rgb(48, 45, 45);
+    color: white;
+    margin: auto;
+height: 600px;
+width: 460px;
+padding: 10px;
+border-radius: 10px;
+
+
+}
+p{
+    margin-left :10px;
+  font-size: 1.5rem;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#screen{
+    background-color: rgb(219, 231, 231);
+    height: 80px;
+    width: 440px;
+    margin: 5px;
+    font-size: 2.5rem;
+    text-align: right;
+    border-radius: 10px;
+}
+.button{
+    background-color: rgb(32, 30, 30);
+    color: antiquewhite;
+    border-radius: 15px;
+    font-size: 2.5rem;
+    margin: 10px;
+    
+    width: 92px;
+    height: 70px;
+}
+.operator{
+    background-color: rgb(80, 77, 77);
+}
+.clear{
+    background-color: red;
+}
+.button:hover {
+    border: 5px solid yellow;
+
+}
+.delete{
+   height: 50px;
+   width: 50px;
+   text-align: center;
+   font-size: 15px;
+   margin: 15px;
+   
+}
+.sham{
+    font-size: 60px;
+    color: blueviolet;
+   
+}
